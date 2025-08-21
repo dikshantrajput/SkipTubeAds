@@ -12,7 +12,7 @@ SkipTubeAds is your ultimate tool for turbocharging your YouTube viewing experie
 
 <!-- TODO: update the readme file for proper links -->
 ## Installation (on Chromium-based browsers)
-1. [Download](https://ad-blitz.vercel.app/) the extension by clicking on your browser icon.
+1. [Download](https://skip-tube-ads.vercel.app/) the extension by clicking on your browser icon.
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable Developer Mode by toggling the switch in the upper-right corner.
 4. Click on the "Load unpacked" button located at the top-left corner of the extensions page.
