@@ -1,11 +1,11 @@
-# AdBlitz (Not an Ad Blocker)
+# SkipTubeAds (Not an Ad Blocker)
 
 ## Description
-AdBlitz is your ultimate tool for turbocharging your YouTube viewing experience. Designed to effortlessly enhance your browsing sessions, it automatically skips skippable ads and accelerates non-skippable ones, ensuring you enjoy uninterrupted content seamlessly. Remember, it's not an *ad blocker*;
+SkipTubeAds is your ultimate tool for turbocharging your YouTube viewing experience. Designed to effortlessly enhance your browsing sessions, it automatically skips skippable ads and accelerates non-skippable ones, ensuring you enjoy uninterrupted content seamlessly. Remember, it's not an *ad blocker*;
 
 ## Features
-- **Automatic Skips:** Say goodbye to interruptions as AdBlitz automatically skips skippable ads on YouTube videos.
-- **Ad Skimming:** For non skippable ads, AdBlitz automatically speeds up ads to maximum speed and mute them.
+- **Automatic Skips:** Say goodbye to interruptions as SkipTubeAds automatically skips skippable ads on YouTube videos.
+- **Ad Skimming:** For non skippable ads, SkipTubeAds automatically speeds up ads to maximum speed and mute them.
 - **Multi-Ad Skipping:** Handles multiple ads with ease, keeping your viewing flow uninterrupted.
 - **Background Magic:** Works seamlessly in the background, providing a smooth and hassle-free viewing experience.
 - **Lightweight & User-Friendly:** Easy to install and use, without any unnecessary bloat.
@@ -27,7 +27,7 @@ AdBlitz is your ultimate tool for turbocharging your YouTube viewing experience.
 ## How to Run Locally
 1. **Clone the Repository**: 
     ```sh
-    git clone https://github.com/dikshantrajput/adBlitz
+    git clone https://github.com/dikshantrajput/SkipTubeAds
     ```
 2. **Run the server**:
     ```sh
@@ -52,4 +52,4 @@ Contributions from the community are welcome. If you'd like to contribute to the
 ## Disclaimer
 This extension is not endorsed by or affiliated with YouTube. It is an independent project developed solely for the purpose of improving user experience on the platform.
 
-Enjoy ad-free YouTube viewing with AdBlitz!
+Enjoy ad-free YouTube viewing with SkipTubeAds!

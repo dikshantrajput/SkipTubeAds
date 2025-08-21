@@ -1,8 +1,8 @@
 {
-  "name": "AdBlitz",
+  "name": "SkipTubeAds",
   "version": "0.1.0",
   "author": "Dikshant Rajput",
-  "description": "AdBlitz: Your Shortcut to Ad-Free Streaming",
+  "description": "SkipTubeAds: Your Shortcut to Ad-Free Streaming",
   "type": "module",
   "license": "MIT",
   "keywords": [
