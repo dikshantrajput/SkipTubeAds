@@ -20,7 +20,7 @@ SkipTubeAds is your ultimate tool for turbocharging your YouTube viewing experie
 6. Confirm the installation when prompted.
 
 ## Installation (on Firefox)
-1. [Download](https://addons.mozilla.org/en-US/firefox/addon/adblitz/) the extension.
+1. [Download](https://addons.mozilla.org/en-US/firefox/addon/skiptubeads/) the extension.
 6. Confirm the installation when prompted.
 6. Give permissions by right clicking on extension.
 
